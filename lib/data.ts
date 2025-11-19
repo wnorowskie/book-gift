@@ -52,7 +52,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/177328214-the-wedding-people",
     "personalNote": "",
-    "pages": 0,
+    "pages": 384,
     "genre": "Fiction",
     "featured": true
   },
@@ -77,8 +77,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/188365460-reckless",
     "personalNote": "",
-    "pages": 0,
-    "genre": ""
+    "pages": 396,
+    "genre": "YA Fiction"
   },
   {
     "id": "the-crash",
@@ -89,7 +89,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/216188969-the-crash",
     "personalNote": "",
-    "pages": 0,
+    "pages": 384,
     "genre": "Fiction"
   },
   {
@@ -174,8 +174,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/23491611-killer-instinct",
     "personalNote": "",
-    "pages": 0,
-    "genre": ""
+    "pages": 400,
+    "genre": "Fiction"
   },
   {
     "id": "all-in-the-naturals-3",
@@ -186,7 +186,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/25873191-all-in",
     "personalNote": "",
-    "pages": 0,
+    "pages": 384,
     "genre": "YA Fiction"
   },
   {
@@ -210,8 +210,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/214208274-fearless",
     "personalNote": "",
-    "pages": 0,
-    "genre": ""
+    "pages": 593,
+    "genre": "YA Fiction"
   },
   {
     "id": "rock-paper-scissors",
@@ -234,7 +234,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/199368721-wild-love",
     "personalNote": "",
-    "pages": 0,
+    "pages": 466,
     "genre": "Fiction"
   },
   {
@@ -246,8 +246,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/222564068-the-tenant",
     "personalNote": "",
-    "pages": 0,
-    "genre": ""
+    "pages": 368,
+    "genre": "Thriller"
   },
   {
     "id": "the-stillwater-girls",
@@ -258,7 +258,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/40258215-the-stillwater-girls",
     "personalNote": "",
-    "pages": 0,
+    "pages": 273,
     "genre": "Fiction"
   },
   {
@@ -284,7 +284,7 @@ export const readingYear2025: ReadingYear = {
     "goodreadsUrl": "https://www.goodreads.com/book/show/13356032-what-teachers-make",
     "personalNote": "",
     "pages": 132,
-    "genre": "",
+    "genre": "Education",
     "featured": true
   },
   {
@@ -296,7 +296,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/143704302-the-girls-in-the-cabin",
     "personalNote": "",
-    "pages": 0,
+    "pages": 330,
     "genre": "Fiction"
   },
   {
@@ -321,7 +321,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/56442293-the-hawthorne-legacy",
     "personalNote": "",
-    "pages": 0,
+    "pages": 384,
     "genre": "YA Fiction"
   },
   {
@@ -371,7 +371,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/42774138-the-friend-zone",
     "personalNote": "",
-    "pages": 0,
+    "pages": 372,
     "genre": "Fiction"
   },
   {
@@ -395,7 +395,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/58778536-do-not-disturb",
     "personalNote": "",
-    "pages": 0,
+    "pages": 325,
     "genre": "Fiction"
   },
   {
@@ -419,8 +419,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/146943908-redeeming-6",
     "personalNote": "",
-    "pages": 0,
-    "genre": ""
+    "pages": 776,
+    "genre": "YA Fiction"
   },
   {
     "id": "taming-7-boys-of-tommen-5",
@@ -431,7 +431,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/196219692-taming-7",
     "personalNote": "",
-    "pages": 0,
+    "pages": 464,
     "genre": "YA Fiction"
   },
   {
@@ -443,7 +443,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/213587168-a-hue-of-blu",
     "personalNote": "",
-    "genre": ""
+    "pages": 384,
+    "genre": "Romance"
   },
   {
     "id": "releasing-10-boys-of-tommen-6",
@@ -454,7 +455,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/229717312-releasing-10",
     "personalNote": "",
-    "genre": ""
+    "pages": 765,
+    "genre": "YA Fiction"
   },
   {
     "id": "divine-rivals-letters-of-enchantment-1",
@@ -477,7 +479,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/150260787-ruthless-vows",
     "personalNote": "",
-    "pages": 0,
+    "pages": 419,
     "genre": "YA Fiction"
   },
   {
@@ -489,7 +491,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/197002873-twelve",
     "personalNote": "",
-    "genre": ""
+    "pages": 144,
+    "genre": "YA Fiction"
   },
   {
     "id": "the-light-we-lost",
@@ -524,7 +527,7 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/232571861-the-intruder",
     "personalNote": "",
-    "pages": 0,
+    "pages": 288,
     "genre": "Fiction"
   },
   {
@@ -561,8 +564,8 @@ export const readingYear2025: ReadingYear = {
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/207595482-nothing-like-the-movies",
     "personalNote": "",
-    "pages": 0,
-    "genre": ""
+    "pages": 448,
+    "genre": "YA Fiction"
   },
   {
     "id": "we-were-liars",
