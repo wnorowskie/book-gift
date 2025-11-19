@@ -15,7 +15,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-01-01",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/58938609-hidden-pictures",
-    "personalNote": "",
+    "personalNote": "Such a creepy, fast-paced start to the year, and I loved how you couldn't stop talking about the twisty illustrations.",
     "pages": 356,
     "genre": "Fiction"
   },
@@ -27,7 +27,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-01-08",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/195834342-just-for-the-summer",
-    "personalNote": "",
+    "personalNote": "This felt like the perfect cozy romance to curl up with, all sunshine, banter, and just the right amount of feelings.",
     "pages": 262,
     "genre": "Fiction"
   },
@@ -39,7 +39,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-01-12",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/58581203-gone-girl",
-    "personalNote": "",
+    "personalNote": "An absolute mind-bender of a thriller, and I loved hearing your theories as you tried to outsmart the twists.",
     "pages": 497,
     "genre": "Fiction"
   },
@@ -51,7 +51,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-01-19",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/177328214-the-wedding-people",
-    "personalNote": "",
+    "personalNote": "I love that you got pulled into all the messy, emotional wedding energy in this one—very on brand for you.",
     "pages": 384,
     "genre": "Fiction",
     "featured": true
@@ -64,7 +64,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-01-24",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/153283393-powerless",
-    "personalNote": "",
+    "personalNote": "This was the fantasy obsession era officially beginning, and I loved how quickly you fell for this world.",
     "pages": 528,
     "genre": "YA Fiction"
   },
@@ -76,7 +76,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-01-30",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/188365460-reckless",
-    "personalNote": "",
+    "personalNote": "You dove straight into this sequel, and I loved seeing how invested you were in these characters and their chaos.",
     "pages": 396,
     "genre": "YA Fiction"
   },
@@ -88,7 +88,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-02-06",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/216188969-the-crash",
-    "personalNote": "",
+    "personalNote": "Another wild Freida ride that kept you turning pages, even if this one wasn't your all-time favorite of hers.",
     "pages": 384,
     "genre": "Fiction"
   },
@@ -100,7 +100,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-02-14",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/205042236-powerful",
-    "personalNote": "",
+    "personalNote": "I love that you even picked up the 1.5—peak dedication to a series and its little in-between moments.",
     "pages": 256,
     "genre": "YA Fiction"
   },
@@ -112,7 +112,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-02-17",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/42098358-archer-s-voice",
-    "personalNote": "",
+    "personalNote": "This one hit all your soft spots—quiet, emotional, and tender in a way that stuck with you after you finished.",
     "pages": 307,
     "genre": "Fiction"
   },
@@ -124,7 +124,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-02-23",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/214447405-the-house-of-my-mother",
-    "personalNote": "",
+    "personalNote": "I know this one was heavy at times, and I admire how you lean into stories that ask hard, honest questions.",
     "pages": 320,
     "genre": "Memoir / Biography"
   },
@@ -136,7 +136,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-03-03",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/23341894-every-last-word",
-    "personalNote": "",
+    "personalNote": "You gravitate toward stories about mental health with so much empathy, and this one fit that perfectly.",
     "pages": 308,
     "genre": "YA Fiction"
   },
@@ -148,7 +148,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-03-13",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/55769250-the-obsession",
-    "personalNote": "",
+    "personalNote": "A quick, twisty YA thriller that scratched the suspense itch even if it wasn't a new favorite.",
     "pages": 266,
     "genre": "YA Fiction"
   },
@@ -160,7 +160,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-03-16",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/18517840-the-naturals",
-    "personalNote": "",
+    "personalNote": "Watching you fall into this series and its FBI teen-prodigy vibes was so fun—exactly your kind of page-turner.",
     "pages": 254,
     "genre": "Fiction",
     "featured": true
@@ -173,7 +173,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-03-21",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/23491611-killer-instinct",
-    "personalNote": "",
+    "personalNote": "You powered straight into book two, which says everything about how hooked you were on this crew.",
     "pages": 400,
     "genre": "Fiction"
   },
@@ -185,7 +185,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-03-24",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/25873191-all-in",
-    "personalNote": "",
+    "personalNote": "Another dark, twisty installment that you tore through like it was nothing—peak binge-reading energy.",
     "pages": 384,
     "genre": "YA Fiction"
   },
@@ -197,7 +197,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-04-13",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/30635180-bad-blood",
-    "personalNote": "",
+    "personalNote": "You closed out this arc like a champ, fully invested in solving every last mystery with them.",
     "pages": 316,
     "genre": "Fiction"
   },
@@ -209,7 +209,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-04-27",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/214208274-fearless",
-    "personalNote": "",
+    "personalNote": "You wrapped up this trilogy with so many feelings, and I loved hearing you process that ending.",
     "pages": 593,
     "genre": "YA Fiction"
   },
@@ -221,7 +221,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-05-13",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/57026221-rock-paper-scissors",
-    "personalNote": "",
+    "personalNote": "A moody, atmospheric thriller that gave you plenty to side-eye even if it didn't fully steal your heart.",
     "pages": 309,
     "genre": "Fiction"
   },
@@ -233,7 +233,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-05-23",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/199368721-wild-love",
-    "personalNote": "",
+    "personalNote": "Small-town romance, big feelings, and all the heart—this one felt like such a comfy escape for you.",
     "pages": 466,
     "genre": "Fiction"
   },
@@ -245,7 +245,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-05-24",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/222564068-the-tenant",
-    "personalNote": "",
+    "personalNote": "Another quick, twisty Freida read that gave you exactly the kind of drama you expect from her books.",
     "pages": 368,
     "genre": "Thriller"
   },
@@ -257,7 +257,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-05-26",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/40258215-the-stillwater-girls",
-    "personalNote": "",
+    "personalNote": "You really enjoyed unraveling the secrets in this one, and I loved hearing you recap all the twists.",
     "pages": 273,
     "genre": "Fiction"
   },
@@ -269,7 +269,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-05-31",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/35721089-beautiful-boy",
-    "personalNote": "",
+    "personalNote": "This was such an emotional, difficult read, and I'm always impressed by how much care you bring to stories like this.",
     "pages": 350,
     "genre": "Memoir / Biography",
     "featured": true
@@ -282,7 +282,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-06-03",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/13356032-what-teachers-make",
-    "personalNote": "",
+    "personalNote": "I love that you read this as a teacher—it felt like such a perfect reminder of how much heart you bring to your job.",
     "pages": 132,
     "genre": "Education",
     "featured": true
@@ -295,7 +295,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-06-09",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/143704302-the-girls-in-the-cabin",
-    "personalNote": "",
+    "personalNote": "A dark, eerie little thriller that scratched the suspense itch while you powered through your TBR.",
     "pages": 330,
     "genre": "Fiction"
   },
@@ -307,7 +307,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-06-13",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/52501482-the-inheritance-games",
-    "personalNote": "",
+    "personalNote": "You had so much fun with all the puzzles, drama, and mystery in this one—it's such a you-style series.",
     "pages": 378,
     "genre": "YA Fiction",
     "featured": true
@@ -320,7 +320,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-07-17",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/56442293-the-hawthorne-legacy",
-    "personalNote": "",
+    "personalNote": "You jumped right back into the Hawthorne madness, and I loved how invested you were in every reveal.",
     "pages": 384,
     "genre": "YA Fiction"
   },
@@ -332,7 +332,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-07-23",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/57690252-the-summer-of-broken-rules",
-    "personalNote": "",
+    "personalNote": "A sweet, summery romance that gave you all the Martha's Vineyard vibes, even if it didn't fully become a fave.",
     "pages": 244,
     "genre": "YA Fiction"
   },
@@ -344,7 +344,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-03",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/146943394-keeping-13",
-    "personalNote": "",
+    "personalNote": "You were absolutely *in it* with this book—so many feelings, so much angst, and you loved every second.",
     "pages": 994,
     "genre": "YA Fiction",
     "featured": true
@@ -357,7 +357,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-10",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/10917.My_Sister_s_Keeper",
-    "personalNote": "",
+    "personalNote": "This was such an emotional roller coaster, and I loved hearing you unpack all the ethical what-ifs afterward.",
     "pages": 611,
     "genre": "Fiction",
     "featured": true
@@ -370,7 +370,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-11",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/42774138-the-friend-zone",
-    "personalNote": "",
+    "personalNote": "Classic Abby mix of humor and heavier topics, and I loved hearing your thoughts on how she balanced both.",
     "pages": 372,
     "genre": "Fiction"
   },
@@ -382,7 +382,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-16",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/44582454-regretting-you",
-    "personalNote": "",
+    "personalNote": "You flew through this one, fully invested in the messy family dynamics and all the CoHo drama.",
     "pages": 375,
     "genre": "Fiction"
   },
@@ -394,7 +394,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-18",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/58778536-do-not-disturb",
-    "personalNote": "",
+    "personalNote": "Another quick, twisty motel-style thriller that you inhaled in no time.",
     "pages": 325,
     "genre": "Fiction"
   },
@@ -406,7 +406,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-23",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/146943389-saving-6",
-    "personalNote": "",
+    "personalNote": "You were so emotionally attached to these characters by this point, and it made this book hit extra hard.",
     "pages": 621,
     "genre": "Fiction"
   },
@@ -418,7 +418,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-08-29",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/146943908-redeeming-6",
-    "personalNote": "",
+    "personalNote": "You closed out this part of the Tommen saga like a champ, heart thoroughly destroyed in the best way.",
     "pages": 776,
     "genre": "YA Fiction"
   },
@@ -430,7 +430,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-09-07",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/196219692-taming-7",
-    "personalNote": "",
+    "personalNote": "By now this series was basically your entire personality, and I loved watching you live in this world.",
     "pages": 464,
     "genre": "YA Fiction"
   },
@@ -442,7 +442,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-09-15",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/213587168-a-hue-of-blu",
-    "personalNote": "",
+    "personalNote": "A unique little love story that added something different to your romance streak this year.",
     "pages": 384,
     "genre": "Romance"
   },
@@ -454,7 +454,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-09-22",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/229717312-releasing-10",
-    "personalNote": "",
+    "personalNote": "You weren't ready to leave this world yet, and I loved seeing how attached you were to these characters.",
     "pages": 765,
     "genre": "YA Fiction"
   },
@@ -466,7 +466,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-09-28",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/62202008-divine-rivals",
-    "personalNote": "",
+    "personalNote": "Typewriters, letters, war, and magic—this felt like such a beautifully soft, romantic fantasy for you.",
     "pages": 323,
     "genre": "YA Fiction"
   },
@@ -478,7 +478,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-10-04",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/150260787-ruthless-vows",
-    "personalNote": "",
+    "personalNote": "You were glad to see how the story wrapped up, even if this one didn't quite hit as hard as the first.",
     "pages": 419,
     "genre": "YA Fiction"
   },
@@ -490,7 +490,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-10-05",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/197002873-twelve",
-    "personalNote": "",
+    "personalNote": "A quick little bonus story that let you spend just a bit more time with characters you love.",
     "pages": 144,
     "genre": "YA Fiction"
   },
@@ -502,7 +502,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-10-08",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/55226030-the-light-we-lost",
-    "personalNote": "",
+    "personalNote": "A bittersweet love story that definitely tugged at your heart, even if you wanted to yell at the characters sometimes.",
     "pages": 369,
     "genre": "Fiction"
   },
@@ -514,7 +514,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-10-12",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/27189194-one-true-loves",
-    "personalNote": "",
+    "personalNote": "You loved how this played with the idea of soulmates and second chances in such an emotional, TJR way.",
     "pages": 352,
     "genre": "Fiction"
   },
@@ -526,7 +526,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-10-14",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/232571861-the-intruder",
-    "personalNote": "",
+    "personalNote": "Another Freida thriller to keep the suspense streak going, packed with exactly the kind of drama you expect.",
     "pages": 288,
     "genre": "Fiction"
   },
@@ -538,7 +538,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-10-18",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/236979743-picking-daisies-on-sundays",
-    "personalNote": "",
+    "personalNote": "This felt like such a soft, bittersweet little story, and I loved that it really stuck with you.",
     "pages": 256,
     "genre": "Fiction",
     "featured": true
@@ -551,7 +551,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-11-02",
     "rating": 4,
     "goodreadsUrl": "https://www.goodreads.com/book/show/63219094-fourth-wing",
-    "personalNote": "",
+    "personalNote": "Dragons, war college, and slow-burn angst—this book basically turned into a whole personality trait for a while.",
     "pages": 420,
     "genre": "Fiction"
   },
@@ -563,7 +563,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-11-07",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/207595482-nothing-like-the-movies",
-    "personalNote": "",
+    "personalNote": "A cute, movie-loving romcom that gave you all the tropey fun you needed in between heavier reads.",
     "pages": 448,
     "genre": "YA Fiction"
   },
@@ -575,7 +575,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-11-09",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/16143347-we-were-liars",
-    "personalNote": "",
+    "personalNote": "A dreamy, mysterious little book that left you turning the ending over in your mind afterward.",
     "pages": 242,
     "genre": "YA Fiction",
   },
@@ -587,7 +587,7 @@ export const readingYear2025: ReadingYear = {
     "dateFinished": "2025-11-15",
     "rating": 3,
     "goodreadsUrl": "https://www.goodreads.com/book/show/203590129-the-last-one-at-the-wedding",
-    "personalNote": "",
+    "personalNote": "A short, twisty little story that felt like the perfect quick read to close out another stretch of your year in books.",
     "pages": 39,
     "genre": "Fiction"
   }
