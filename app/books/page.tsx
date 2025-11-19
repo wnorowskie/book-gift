@@ -9,7 +9,7 @@ export default function BooksPage() {
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-slate-900">All Books</h1>
         <p className="mt-2 text-slate-600">
-          {books.length} books read in 2024, sorted by date finished
+          {books.length} books read in 2025, sorted by date finished
         </p>
       </div>
 
