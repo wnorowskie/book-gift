@@ -1,0 +1,7 @@
+# Book Covers
+
+Place book cover images here if you want to use local images instead of external URLs.
+
+Images should be named to match the book IDs (e.g., `the-midnight-library.jpg`).
+
+Then update the `coverImageUrl` in your book data to use `/covers/the-midnight-library.jpg`.
