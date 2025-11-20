@@ -63,14 +63,6 @@ export function computeStats(books: Book[]) {
 }
 
 export function getFeaturedBooks(books: Book[]): Book[] {
-  // First, check if any books are manually marked as featured
-  const manuallyFeatured = books.filter((b) => b.featured === true);
-  if (manuallyFeatured.length > 0) {
-    return manuallyFeatured;
-  }
-
-  // Otherwise, get the highest-rated books
-  const withRatings = books.filter((b) => typeof b.rating === "number");
-  const sorted = [...withRatings].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
-  return sorted.slice(0, 2);
+  // Return all books with 5-star ratings
+  return books.filter((b) => b.rating === 5);
 }
