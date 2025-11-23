@@ -580,7 +580,19 @@ export const readingYear2025: ReadingYear = {
     "rating": 5,
     "goodreadsUrl": "https://www.goodreads.com/book/show/203590129-the-last-one-at-the-wedding",
     "personalNote": "A short, twisty little story that felt like the perfect quick read to close out another stretch of your year in books.",
-    "pages": 39,
+    "pages": 304,
+    "genre": "Fiction"
+  },
+  {
+    "id": "the-last-thing-he-told-me",
+    "title": "The Last Thing He Told Me",
+    "author": "Dave, Laura",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603034599l/54981009.jpg",
+    "dateFinished": "2025-11-23",
+    "rating": 3,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/54981009-the-last-thing-he-told-me",
+    "personalNote": "A solid thriller that kept you guessing, even if it didn't fully become a favorite.",
+    "pages": 336,
     "genre": "Fiction"
   }
 ] as const,
