@@ -46,9 +46,10 @@ export default function HomePage() {
       {/* Featured Books */}
       {featuredBooks.length > 0 && (
         <section>
-          <h3 className="mb-6 text-2xl font-bold text-slate-900">
-            Featured Favorites
+          <h3 className="mb-2 text-center text-3xl font-bold text-slate-900">
+            Five Star Favorites
           </h3>
+          <p className="mb-6 text-center text-3xl">⭐⭐⭐⭐⭐</p>
           <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4">
             {featuredBooks.map((book) => (
               <BookCard key={book.id} book={book} />

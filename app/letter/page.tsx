@@ -10,16 +10,16 @@ export default function LetterPage() {
           <p>Dear Victoria,</p>
 
           <p>
-            This year, you've read 50 incredible books—each one a journey, a
+            This year, you've read 50 incredible books. Each one a journey, a
             lesson, or an escape. Watching you devour story after story has
             been inspiring, and I wanted to create something special to
             celebrate this amazing accomplishment.
           </p>
 
           <p>
-            From thrillers that kept you up late to memoirs that moved
+            You read thrillers that kept you up late to memoirs that moved
             you to tears, from fantasy worlds that sparked your imagination to
-            non-fiction that expanded your mind—you've explored so many
+            non-fiction that expanded your mind. You've explored so many
             different worlds and perspectives this year.
           </p>
 
