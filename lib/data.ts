@@ -594,6 +594,18 @@ export const readingYear2025: ReadingYear = {
     "personalNote": "A solid thriller that kept you guessing, even if the ending wasn't what you wanted.",
     "pages": 336,
     "genre": "Thriller"
+  },
+  {
+    "id": "the-last-letter",
+    "title": "The Last Letter",
+    "author": "Yarros, Rebecca",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715987942l/213613851.jpg",
+    "dateFinished": "2025-12-11",
+    "rating": 5,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/213613851-the-last-letter",
+    "personalNote": "the one that completed you yearly goal! (even if it took a while to get through).",
+    "pages": 432,
+    "genre": "Romance"
   }
 ] as const,
 };
